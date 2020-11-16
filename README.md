@@ -14,3 +14,5 @@ npm run start:vue
 ```
 npm run start:api
 ```
+
+https://softwarecrafters.io/react/arquitectura-hexagonal-frontend
