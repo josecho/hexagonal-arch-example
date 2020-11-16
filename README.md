@@ -16,3 +16,4 @@ npm run start:api
 ```
 
 https://softwarecrafters.io/react/arquitectura-hexagonal-frontend
+https://medium.com/@jonathanloscalzo/domain-driven-design-principios-beneficios-y-elementos-primera-parte-aad90f30aa35
